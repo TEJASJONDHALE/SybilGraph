@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+networkx
+scipy
+scikit-learn
+plotly
+google-genai>=1.0.0
